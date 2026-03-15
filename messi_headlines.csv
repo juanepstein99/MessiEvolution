@@ -1,0 +1,34 @@
+year,source,headline,period,sentiment
+2014,BBC,Messi falls short as Argentina lose World Cup final,pre_qatar,negative
+2014,Guardian,Messi unable to deliver World Cup for Argentina,pre_qatar,negative
+2014,ESPN,Argentina heartbreak as Messi misses World Cup glory,pre_qatar,negative
+2015,BBC,Messi struggles in Copa America final defeat,pre_qatar,negative
+2015,Guardian,Messi brilliance not enough in Copa America final loss,pre_qatar,negative
+2016,ESPN,Messi retires from Argentina after Copa America loss,pre_qatar,negative
+2016,BBC,Pressure grows on Messi after international disappointments,pre_qatar,negative
+2017,Guardian,Messi still chasing international glory with Argentina,pre_qatar,neutral
+2017,ESPN,Messi carries Argentina hopes again,pre_qatar,neutral
+2018,BBC,Argentina crash out as Messi fails to inspire,pre_qatar,negative
+2018,Guardian,Is Messi missing the one trophy that defines greatness?,pre_qatar,neutral
+2019,ESPN,Messi brilliance not enough for Argentina again,pre_qatar,neutral
+2019,BBC,Debate continues Messi versus Maradona legacy,pre_qatar,neutral
+2020,Guardian,Messi still searching for international validation,pre_qatar,neutral
+2021,ESPN,Messi finally wins Copa America with Argentina,pre_qatar,positive
+2021,BBC,Messi lifts first major international trophy,pre_qatar,positive
+2022,Guardian,Can Messi finally win the World Cup in Qatar?,pre_qatar,neutral
+2022,ESPN,All eyes on Messi ahead of Qatar World Cup,pre_qatar,neutral
+2022,BBC,Messi leads Argentina to World Cup glory in Qatar,post_qatar,positive
+2022,Guardian,Messi crowns career with historic World Cup victory,post_qatar,positive
+2022,ESPN,Messi settles the GOAT debate with World Cup win,post_qatar,positive
+2023,BBC,Messi legacy sealed after Argentina triumph,post_qatar,positive
+2023,Guardian,Messi now the undisputed greatest after Qatar,post_qatar,positive
+2023,ESPN,Messi proves greatness with World Cup victory,post_qatar,positive
+2023,BBC,Messi leads Argentina into a new era as champions,post_qatar,positive
+2023,Guardian,Messi World Cup triumph rewrites football history,post_qatar,positive
+2024,ESPN,Messi continues to shine after World Cup triumph,post_qatar,positive
+2024,BBC,Messi remains dominant even after lifting World Cup,post_qatar,positive
+2024,Guardian,Messi influence grows after historic victory,post_qatar,positive
+2024,ESPN,Messi legacy now unquestioned worldwide,post_qatar,positive
+2024,BBC,Messi still inspiring after World Cup glory,post_qatar,positive
+2024,Guardian,Messi greatness now beyond debate,post_qatar,positive
+2024,ESPN,Messi symbol of football excellence after Qatar,post_qatar,positive
